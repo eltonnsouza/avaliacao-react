@@ -47,16 +47,14 @@ Siga os passos abaixo para clonar o projeto e rodar a API em sua máquina local.
 3.  **Instalação e Execução**:
     * Clone este repositório.
     * Instale as dependências:
-        ```bash
+        ``` API
         npm install
-        ```
-    * Rode o script para gerar a documentação da API com Swagger:
-        ```bash
         node src/swagger.js
         ```
     * Inicie o servidor de desenvolvimento:
-        ```bash
-        npm start
+        ``` Web Frontend
+        npm install
+        npm run dev
         ```
     * A API estará rodando em `http://localhost:3000`.
 
