@@ -1,13 +1,13 @@
 # Gerenciamento de Clientes com React, MUI e Supabase
 
 **Recursos Criados**
-***Listar Produtos***
-***Adicionar Produtos***
-***Editar Produtos***
-***Excluir Produtos***
+***Listar Clientes***
+***Adicionar Clientes***
+***Editar Clientes***
+***Excluir Clientes***
 ***Contador de Produtos***
 
-Este projeto é uma aplicação web completa para gerenciamento de produtos, construída com 
+Este projeto é uma aplicação web completa para gerenciamento de Clientes, construída com 
 **React 19**
 **TypeScript** Ele se destaca por sua interface moderna e responsiva, usando 
 **Material-UI (MUI)** para o design 
