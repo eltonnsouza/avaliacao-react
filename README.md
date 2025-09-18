@@ -1,4 +1,4 @@
-# Gerenciamento de Produtos com React, MUI e Supabase
+# Gerenciamento de Clientes com React, MUI e Supabase
 
 **Recursos Criados**
 ***Listar Produtos***
