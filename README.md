@@ -54,7 +54,7 @@ A aplicação foi desenvolvida com foco na responsividade e em uma experiência 
     ```sh
     cd nome-do-seu-projeto
     ```
-3.  Instale as dependências:
+3.  Instale as dependências: do backend e do frontendnpm
     ```sh
     npm install
     # ou yarn install
